@@ -1,16 +1,22 @@
-## Hi there 👋
+<h3>
+  Hi there
+  <a id="waving">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width=25 />
+  </a>
+</h3>
 
-<!--
-**kangwoohyun999/kangwoohyun999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<a id="Language">
+  <h3>Language</h3>
+  <img src="https://skillicons.dev/icons?i=python,html,js,c" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<a id="Used">
+  <h3>Used</h3>
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ns30&show_icons=true&theme=radical)
