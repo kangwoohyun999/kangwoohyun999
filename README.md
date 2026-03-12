@@ -18,3 +18,16 @@
   <h3>Used</h3>
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 </a>
+
+<hr />
+
+<a id="Projects">
+  <h3>Projects</h3>
+
+  🎳 BowlTrack
+  
+  ```
+  https://web-production-15af8.up.railway.app/
+  ```
+
+</a>
