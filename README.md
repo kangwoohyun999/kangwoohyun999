@@ -27,7 +27,6 @@
   🎳 BowlTrack
   
   ```
-  https://web-production-15af8.up.railway.app/
   https://bowltrack-v1.netlify.app/
   ```
 
