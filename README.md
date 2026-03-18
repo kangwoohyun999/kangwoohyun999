@@ -27,7 +27,7 @@
   🎳 BowlTrack
   
   ```
-  https://bowltrack.netlify.app/
+  https://bowl-track-bay.vercel.app/
   ```
 
   ChatApp
