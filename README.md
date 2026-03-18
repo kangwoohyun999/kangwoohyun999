@@ -30,10 +30,10 @@
   https://bowltrack.netlify.app/
   ```
 
-  MyGPT
+  ChatApp
 
   ```
-  https://web-production-ee6f4.up.railway.app/
+  https://chatapp-knu.netlify.app/
   ```
 
 </a>
