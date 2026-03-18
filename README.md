@@ -27,7 +27,7 @@
   🎳 BowlTrack
   
   ```
-  https://bowl-track-bay.vercel.app/
+  https://web-production-c2004.up.railway.app/
   ```
 
   ChatApp
