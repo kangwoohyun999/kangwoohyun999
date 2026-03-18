@@ -27,7 +27,7 @@
   🎳 BowlTrack
   
   ```
-  https://bowltrack-v1.netlify.app/
+  https://bowltrack.netlify.app/
   ```
 
   MyGPT
