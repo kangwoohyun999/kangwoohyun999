@@ -30,4 +30,10 @@
   https://web-production-c2004.up.railway.app/
   ```
 
+  Solo_Leveling_JLPT
+
+  ```
+  https://sololevelingjlpt-production.up.railway.app/
+  ```
+
 </a>
