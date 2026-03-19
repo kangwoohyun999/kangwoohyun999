@@ -30,10 +30,4 @@
   https://web-production-c2004.up.railway.app/
   ```
 
-  ChatApp
-
-  ```
-  https://chatapp-knu.netlify.app/
-  ```
-
 </a>
