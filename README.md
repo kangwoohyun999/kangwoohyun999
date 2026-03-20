@@ -33,7 +33,7 @@
   Solo_Leveling_JLPT
 
   ```
-  https://sololevelingjlpt-production.up.railway.app/
+  https://sololevelingjlpt.up.railway.app/
   ```
 
 </a>
