@@ -27,7 +27,7 @@
   🎳 BowlTrack
   
   ```
-  https://web-production-c2004.up.railway.app/
+  https://bowltrack.up.railway.app/
   ```
 
   Solo_Leveling_JLPT
