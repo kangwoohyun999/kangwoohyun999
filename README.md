@@ -16,7 +16,7 @@
 
 <a id="Used">
   <h3>Used</h3>
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,railway" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 </a>
 
 <hr />
