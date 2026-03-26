@@ -9,14 +9,14 @@
 
 <a id="Language">
   <h3>Language</h3>
-  <img src="https://skillicons.dev/icons?i=python,html,js,c" />
+  <img src="https://skillicons.dev/icons?i=python,html,js,c,cpp,css" />
 </a>
 
 <hr />
 
 <a id="Used">
   <h3>Used</h3>
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,react,anaconda,androidstudio,eclipse,kali,netlify,nodejs" />
 </a>
 
 <hr />
