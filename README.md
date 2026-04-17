@@ -27,10 +27,10 @@
   🎳 BowlTrack
   
   ```
-  ~
+  Wait please
   ```
 
-  Solo_Leveling_JLPT
+  📚 Solo_Leveling_JLPT
 
   ```
   https://sololevelingjlpt.vercel.app/
