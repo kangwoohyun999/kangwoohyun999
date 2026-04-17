@@ -27,13 +27,13 @@
   🎳 BowlTrack
   
   ```
-  https://bowltrack.up.railway.app/
+  ~
   ```
 
   Solo_Leveling_JLPT
 
   ```
-  https://sololevelingjlpt.up.railway.app/
+  https://sololevelingjlpt.vercel.app/
   ```
 
 </a>
