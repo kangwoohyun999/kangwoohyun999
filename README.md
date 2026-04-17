@@ -30,7 +30,7 @@
   Wait please
   ```
 
-  📚 Solo_Leveling_JLPT
+  📚 Solo Leveling JLPT
 
   ```
   https://sololevelingjlpt.vercel.app/
